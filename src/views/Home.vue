@@ -3,6 +3,7 @@
     <div>
       <h1>Home</h1>
       <p>Bienvenido a la página de inicio.</p>
+      <div>holaaaa si se pudoooo</div>
     </div>
   </template>
   
